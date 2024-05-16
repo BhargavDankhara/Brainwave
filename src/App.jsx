@@ -5,6 +5,7 @@ import Collaboration from "./components/Collaboration";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Pricing from "./components/Pricing";
+import Rodamap from "./components/Rodamap";
 import Services from "./components/Services";
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
         <Collaboration />
         <Services />
         <Pricing />
+        <Rodamap />
       </div>
       <ButtonGradient />
     </>
